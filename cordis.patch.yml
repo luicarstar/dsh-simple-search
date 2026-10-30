@@ -1,0 +1,5 @@
+# DSH Simple Search: one client-only row. The Host half is a no-op; lib/client.js
+# renders the header button and the query panel.
+- insert:
+    - id: simple-search
+      name: 'dsh-simple-search'
